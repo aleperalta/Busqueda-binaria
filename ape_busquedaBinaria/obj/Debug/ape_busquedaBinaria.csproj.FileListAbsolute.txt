@@ -1,0 +1,9 @@
+c:\users\ale_p_000\documents\visual studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\bin\Debug\ape_busquedaBinaria.exe.config
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\bin\Debug\ape_busquedaBinaria.exe
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\bin\Debug\ape_busquedaBinaria.pdb
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\obj\Debug\ape_busquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\obj\Debug\ape_busquedaBinaria.frmPrincipal.resources
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\obj\Debug\ape_busquedaBinaria.Properties.Resources.resources
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\obj\Debug\ape_busquedaBinaria.csproj.GenerateResource.Cache
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\obj\Debug\ape_busquedaBinaria.exe
+C:\Users\ale_p_000\Documents\Visual Studio 2015\Projects\ape_busquedaBinaria\ape_busquedaBinaria\obj\Debug\ape_busquedaBinaria.pdb
